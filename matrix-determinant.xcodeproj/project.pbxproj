@@ -15,6 +15,7 @@
 		CE30268224489E4C0006AF6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE30268024489E4C0006AF6D /* LaunchScreen.storyboard */; };
 		CE30268D24489E4D0006AF6D /* matrix_determinantTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE30268C24489E4D0006AF6D /* matrix_determinantTests.swift */; };
 		CE30269824489E4D0006AF6D /* matrix_determinantUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE30269724489E4D0006AF6D /* matrix_determinantUITests.swift */; };
+		CE3CAD8424499DA500DA2CC4 /* ViewController + extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3CAD8324499DA500DA2CC4 /* ViewController + extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CE30269324489E4D0006AF6D /* matrix-determinantUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "matrix-determinantUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE30269724489E4D0006AF6D /* matrix_determinantUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = matrix_determinantUITests.swift; sourceTree = "<group>"; };
 		CE30269924489E4D0006AF6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE3CAD8324499DA500DA2CC4 /* ViewController + extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				CE30267524489E490006AF6D /* AppDelegate.swift */,
 				CE30267724489E490006AF6D /* SceneDelegate.swift */,
 				CE30267924489E490006AF6D /* ViewController.swift */,
+				CE3CAD8324499DA500DA2CC4 /* ViewController + extension.swift */,
 				CE30267B24489E490006AF6D /* Main.storyboard */,
 				CE30267E24489E4C0006AF6D /* Assets.xcassets */,
 				CE30268024489E4C0006AF6D /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE3CAD8424499DA500DA2CC4 /* ViewController + extension.swift in Sources */,
 				CE30267A24489E490006AF6D /* ViewController.swift in Sources */,
 				CE30267624489E490006AF6D /* AppDelegate.swift in Sources */,
 				CE30267824489E490006AF6D /* SceneDelegate.swift in Sources */,
